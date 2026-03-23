@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Python Backend Developer | Exploring AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;FastAPI+%7C+Django;Future+GSoC+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;FastAPI+%7C+Django" />
 </p>
 
 <p align="center">
