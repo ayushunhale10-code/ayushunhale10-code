@@ -71,8 +71,6 @@
 
 ---
 
----
-
 ## 🧩 Current Focus
 
 - Building backend systems with FastAPI  
