@@ -1,27 +1,39 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">Python Backend Developer 🚀 | Exploring AI</h3>
+<h3 align="center">🚀 Python Backend Developer | Exploring AI</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushunhale10-code&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
 * 🎓 B.Tech IT Student
-* 💻 Focused on **Backend Development using Python**
-* ⚡ Learning **FastAPI & Django**
-* 🧠 Exploring **AI/ML (beginner → growing)**
+* 💻 Passionate about **Backend Development using Python**
+* ⚡ Currently learning **FastAPI & Django**
+* 🧠 Exploring **AI/ML (step by step)**
 * 🎯 Goal: Crack **GSoC & Backend Internships**
 * 🌙 Night coder
 
 ---
 
+## 🔥 Current Focus
+
+* 🚀 Building backend projects using **FastAPI**
+* 📌 Practicing DSA on LeetCode
+* 🌍 Preparing for **Open Source Contributions**
+
+---
+
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/ayush-unhale-b56058301" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/ayushunhale/" target="blank">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 </p>
 
@@ -29,48 +41,50 @@
 
 ## 🛠 Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,django,sqlite,postgres,git,github,vscode" />
-</p>
-
----
-
-## 🚀 Current Focus
-
-* 🚀 Building backend projects using **FastAPI**
-* 📌 Practicing DSA on LeetCode
-* 🌍 Preparing for Open Source (GSoC)
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayushunhale10-code&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushunhale10-code&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,django,sqlite,postgres,git,github,vscode" />
 </p>
 
 ---
 
 ## 🚀 Featured Project
 
-* ⚙️ Backend API Project (Coming Soon)
-  → FastAPI + Auth + Database
+<p align="center">
+⚙️ <b>Backend API Project (Coming Soon)</b>  
+<br/>
+FastAPI • Authentication • Database Integration
+</p>
+
 ---
 
-⭐️ From Ayush | Building something cool 🚀
+## 📊 GitHub Stats
 
-<!--
-**ayushunhale10-code/ayushunhale10-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushunhale10-code&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushunhale10-code&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushunhale10-code&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+<p align="center">
+💻 When the world sleeps, I build.
+</p>
+
+---
+
+<p align="center">
+✨ <b>Building something amazing, one commit at a time.</b>
+</p>
