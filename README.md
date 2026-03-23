@@ -56,7 +56,9 @@
 
 * ⚙️ Backend API Project (Coming Soon)
   → FastAPI + Auth + Database
-## Hi there 👋
+---
+
+⭐️ From Ayush | Building something cool 🚀
 
 <!--
 **ayushunhale10-code/ayushunhale10-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
