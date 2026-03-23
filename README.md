@@ -49,11 +49,9 @@
 
 ## 🚀 Featured Project
 
-<p align="center">
-⚙️ <b>Backend API Project (Coming Soon)</b>  
-<br/>
-FastAPI • Authentication • Database Integration
-</p>
+⚙️ Backend API (In Progress)  
+→ Building REST API using FastAPI with authentication & database  
+→ Focus: Clean architecture + real-world structure
 
 ---
 
