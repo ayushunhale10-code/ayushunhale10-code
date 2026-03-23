@@ -67,22 +67,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushunhale10-code&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
-## ⚡ Fun Fact
+## 🧩 Current Focus
 
-<p align="center">
-💻 When the world sleeps, I build.
-</p>
+- Building backend systems with FastAPI  
+- Writing clean and structured code  
+- Preparing for open source contributions  
 
 ---
 
 <p align="center">
-✨ <b>Building something amazing, one commit at a time.</b>
+  <i>Focused on improving one project at a time.</i>
 </p>
