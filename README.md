@@ -2,6 +2,10 @@
 <h3 align="center">🚀 Python Backend Developer | Exploring AI</h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;FastAPI+%7C+Django" />
 </p>
 
