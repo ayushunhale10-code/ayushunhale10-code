@@ -66,8 +66,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushunhale10-code&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushunhale10-code&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayushunhale10-code&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayushunhale10-code&layout=compact&theme=tokyonight" />
 </p>
 ---
 
