@@ -72,11 +72,11 @@
 
 ---
 
-## 🧩 Current Focus
+## 📌 Goals
 
-- Building backend systems with FastAPI  
-- Writing clean and structured code  
-- Preparing for open source contributions  
+- Crack GSoC  
+- Get Backend Internship  
+- Build real-world projects    
 
 ---
 
